@@ -150,7 +150,7 @@ The dataset includes rich information about restaurants:
 
 ## 📧 Contact
 Your Name - nikitatambole@gmail.com
-Project Link: [https://github.com/yourusername/zomato-analysis](https://github.com/yourusername/zomato-analysis)
+Project Link: [https://github.com/nikita98062/zomato-analysis]
 
 ## 🙏 Acknowledgments
 - Zomato for providing the dataset
